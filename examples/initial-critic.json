@@ -1,0 +1,31 @@
+{
+  "output": {
+    "decision": "approve",
+    "title_and_angle_supported": true,
+    "harm_check_passed": true,
+    "claim_checks": [
+      {
+        "id": "C1",
+        "supported": true,
+        "reason": "Text accurately reflects NHS guidance on multi-layered sun protection."
+      },
+      {
+        "id": "C2",
+        "supported": true,
+        "reason": "Text correctly cites NHS SPF 30+ and four-star UVA requirements."
+      },
+      {
+        "id": "C3",
+        "supported": true,
+        "reason": "Text accurately states NHS reapplication guidelines for swimming and sweating."
+      }
+    ],
+    "reason": "All claims are fully supported by the source packet; title and angle avoid unsupported promises or health advice."
+  },
+  "meta": {
+    "model": "qwen3.5:4b",
+    "duration_ms": 5805,
+    "input_tokens": 528,
+    "output_tokens": 192
+  }
+}

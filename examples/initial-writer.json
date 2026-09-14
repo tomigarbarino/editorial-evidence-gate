@@ -1,0 +1,22 @@
+{
+  "output": {
+    "title": "Sun Safety for Men: Practical Steps Beyond the SPF Number",
+    "angle": "This editorial explores how adult men can prioritize skin health through shade, clothing, and proper sunscreen application without focusing on aesthetic outcomes. It emphasizes that protection is a multi-layered strategy rather than relying solely on product selection.",
+    "claim_ids": [
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "questions": [
+      "How can men integrate sun safety into their daily routine without it feeling like a chore?",
+      "What are the specific criteria for choosing an effective sunscreen that meets NHS standards?",
+      "Why is reapplication frequency often overlooked and how does it impact overall protection?"
+    ]
+  },
+  "meta": {
+    "model": "qwen3.5:4b",
+    "duration_ms": 16051,
+    "input_tokens": 413,
+    "output_tokens": 166
+  }
+}

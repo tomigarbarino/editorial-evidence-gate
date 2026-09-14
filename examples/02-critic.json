@@ -1,0 +1,31 @@
+{
+  "output": {
+    "decision": "approve",
+    "title_and_angle_supported": true,
+    "harm_check_passed": true,
+    "claim_checks": [
+      {
+        "id": "C1",
+        "supported": true,
+        "reason": "Text accurately reflects NHS guidance on multi-layer protection."
+      },
+      {
+        "id": "C2",
+        "supported": true,
+        "reason": "Text correctly cites specific SPF and UVA criteria from the source."
+      },
+      {
+        "id": "C3",
+        "supported": true,
+        "reason": "Text accurately states reapplication requirements per source notes."
+      }
+    ],
+    "reason": "All claims are fully supported by the provided NHS source packet. Title and angle avoid unsupported promises, shame, or medical advice. Editor review is required before publication as per constraints."
+  },
+  "meta": {
+    "model": "qwen3.5:4b",
+    "duration_ms": 5018,
+    "input_tokens": 556,
+    "output_tokens": 199
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "editorial-evidence-gate",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "live": "node src/run.mjs",
+    "replay": "node src/run.mjs --replay",
+    "serve": "node src/serve.mjs"
+  }
+}

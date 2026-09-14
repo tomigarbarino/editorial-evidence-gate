@@ -1,0 +1,102 @@
+{
+  "run_id": "2026-09-14T14-54-29-611Z",
+  "mode": "live",
+  "created_at": "2026-09-14T14:54:51.484Z",
+  "packet": {
+    "topic": "Sun protection without appearance anxiety",
+    "audience": "Adult men researching practical grooming",
+    "checked_at": "2026-09-14",
+    "sources": [
+      {
+        "id": "nhs-sun",
+        "title": "Sunscreen and sun safety",
+        "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/",
+        "reviewed_on": "2026-03-24",
+        "checked_on": "2026-09-14",
+        "jurisdiction": "UK",
+        "notes": "Manually checked public guidance. This small packet is not a complete clinical literature review."
+      }
+    ],
+    "claims": [
+      {
+        "id": "C1",
+        "source_id": "nhs-sun",
+        "text": "NHS guidance combines shade, protective clothing and sunscreen; sunscreen alone is not the whole strategy."
+      },
+      {
+        "id": "C2",
+        "source_id": "nhs-sun",
+        "text": "For sunscreen selection, NHS guidance specifies SPF 30 or higher and at least four-star UVA protection."
+      },
+      {
+        "id": "C3",
+        "source_id": "nhs-sun",
+        "text": "NHS guidance says sunscreen needs frequent reapplication, including after swimming, sweating or towel drying."
+      }
+    ],
+    "constraints": [
+      "No attractiveness scores, shame, diagnosis, treatment or personalized medical advice.",
+      "No promise that grooming changes social status or guarantees appearance results.",
+      "Use only the approved claim IDs. A qualified editor must check suitability before publication."
+    ]
+  },
+  "draft": {
+    "title": "Sun Safety for Men: Practical Steps Beyond the SPF Number",
+    "angle": "This editorial explores how adult men can prioritize skin health through shade, clothing, and proper sunscreen application without focusing on aesthetic outcomes. It emphasizes that protection is a multi-layered strategy rather than relying solely on product selection.",
+    "claim_ids": [
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "questions": [
+      "How can men integrate sun safety into their daily routine without it feeling like a chore?",
+      "What are the specific criteria for choosing an effective sunscreen that meets NHS standards?",
+      "Why is reapplication frequency often overlooked and how does it impact overall protection?"
+    ]
+  },
+  "review": {
+    "decision": "approve",
+    "title_and_angle_supported": true,
+    "harm_check_passed": true,
+    "claim_checks": [
+      {
+        "id": "C1",
+        "supported": true,
+        "reason": "Text accurately reflects NHS guidance on multi-layered sun protection."
+      },
+      {
+        "id": "C2",
+        "supported": true,
+        "reason": "Text correctly cites NHS SPF 30+ and four-star UVA requirements."
+      },
+      {
+        "id": "C3",
+        "supported": true,
+        "reason": "Text accurately states NHS reapplication guidelines for swimming and sweating."
+      }
+    ],
+    "reason": "All claims are fully supported by the source packet; title and angle avoid unsupported promises or health advice."
+  },
+  "decision": {
+    "status": "needs_editor_review",
+    "publishable": false,
+    "issues": []
+  },
+  "trace": [
+    {
+      "stage": "00-evidence",
+      "output_sha256": "5a3c5f34ab8582a85a7483e81f8919c311e67c05e4d5213db042a41e535a6796",
+      "at": "2026-09-14T14:54:29.619Z"
+    },
+    {
+      "stage": "01-writer",
+      "output_sha256": "9951f9d7d9e4aa1e3a5464e945ac5b82fc81563fce4a5e931c733676b8bb506e",
+      "at": "2026-09-14T14:54:45.676Z"
+    },
+    {
+      "stage": "02-critic",
+      "output_sha256": "b9504427e7dc3c1778bfe7a99f233f9ecf1414236c47be1456c4f2fbe261f097",
+      "at": "2026-09-14T14:54:51.483Z"
+    }
+  ]
+}

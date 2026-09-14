@@ -1,0 +1,52 @@
+{
+  "topic": "Sun protection without appearance anxiety",
+  "audience": "Adult men researching practical grooming",
+  "checked_at": "2026-09-14",
+  "sources": [
+    {
+      "id": "nhs-sun",
+      "title": "Sunscreen and sun safety",
+      "url": "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/",
+      "reviewed_on": "2026-03-24",
+      "checked_on": "2026-09-14",
+      "jurisdiction": "UK",
+      "notes": "Manually checked public guidance. This small packet is not a complete clinical literature review."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "source_id": "nhs-sun",
+      "text": "NHS guidance combines shade, protective clothing and sunscreen; sunscreen alone is not the whole strategy."
+    },
+    {
+      "id": "C2",
+      "source_id": "nhs-sun",
+      "text": "For sunscreen selection, NHS guidance specifies SPF 30 or higher and at least four-star UVA protection."
+    },
+    {
+      "id": "C3",
+      "source_id": "nhs-sun",
+      "text": "NHS guidance says sunscreen needs frequent reapplication, including after swimming, sweating or towel drying."
+    }
+  ],
+  "constraints": [
+    "No attractiveness scores, shame, diagnosis, treatment or personalized medical advice.",
+    "No promise that grooming changes social status or guarantees appearance results.",
+    "Use only the approved claim IDs. A qualified editor must check suitability before publication."
+  ],
+  "editor_questions": [
+    {
+      "id": "Q-region",
+      "text": "Does UK sunscreen labeling need a regional explanation for readers in other countries?"
+    },
+    {
+      "id": "Q-source-age",
+      "text": "Has the primary guidance changed since the recorded source check?"
+    },
+    {
+      "id": "Q-medical-review",
+      "text": "Has a qualified editor reviewed the framing and suitability before publication?"
+    }
+  ]
+}

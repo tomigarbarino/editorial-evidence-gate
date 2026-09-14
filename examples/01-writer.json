@@ -1,0 +1,22 @@
+{
+  "output": {
+    "title": "Sun safety for men: Practical steps beyond SPF numbers",
+    "angle": "This editorial outlines NHS-backed sun protection strategies tailored for adult men, emphasizing shade, clothing, and reapplication over aesthetic concerns. It clarifies that sunscreen is only one part of a comprehensive approach to skin health.",
+    "claim_ids": [
+      "C1",
+      "C2",
+      "C3"
+    ],
+    "questions": [
+      "Q-source-age",
+      "Q-region",
+      "Q-medical-review"
+    ]
+  },
+  "meta": {
+    "model": "qwen3.5:4b",
+    "duration_ms": 3642,
+    "input_tokens": 498,
+    "output_tokens": 127
+  }
+}
